@@ -1,0 +1,45 @@
+.post-preview{
+    color: #29638c;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 800;
+    line-height: 1.2;
+}
+.Bullet{
+    color: #000000;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+}
+.post-subtitle{
+    color: #29638c;
+    font-weight: 300;
+  margin-bottom: 0.625rem
+  font-weight: 600;
+    line-height: 1.2;
+}
+
+.site-heading{
+    color: #29638c;
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+.post-preview > a > .post-title {
+    color: #29638c;
+    font-size: 1.875rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+  }
+  .post-subtitle2{
+    color: #29638c;
+    font-weight: 300;
+  margin-bottom: 0.625rem
+  font-weight: 600;
+    line-height: 1.2;
+    margin: 50px;
+    padding: 10px;
+  }
